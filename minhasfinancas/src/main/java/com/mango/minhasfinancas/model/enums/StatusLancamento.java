@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.mango.minhasfinancas.model.entity;
+package com.mango.minhasfinancas.model.enums;
 
 /**
  * @author Joyce Ambrosio

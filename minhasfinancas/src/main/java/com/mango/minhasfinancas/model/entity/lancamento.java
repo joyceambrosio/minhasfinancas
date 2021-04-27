@@ -20,6 +20,9 @@ import javax.persistence.Table;
 
 import org.springframework.data.convert.Jsr310Converters;
 
+import com.mango.minhasfinancas.model.enums.StatusLancamento;
+import com.mango.minhasfinancas.model.enums.TipoLancamento;
+
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
